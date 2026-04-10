@@ -34,3 +34,4 @@ tmp/
 # OS
 Thumbs.db
 .DS_Store
+backend\seed-admin.js
